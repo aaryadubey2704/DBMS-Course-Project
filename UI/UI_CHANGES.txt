@@ -1,0 +1,13 @@
+UI redesign notes
+
+The application was redesigned with a premium pink-and-white boutique aesthetic.
+- Modern left sidebar navigation
+- Welcome/dashboard home screen
+- KPI cards using live MySQL values
+- White cards with blush-pink accents
+- Cleaner forms and professional buttons
+- Styled Treeview tables and scrollbars
+- Added Garments, Designs, Fabrics & Stock, and Tailors screens
+- Added live database connection status
+- Improved page titles/subtitles and quick actions
+- Existing MySQL database/configuration is preserved
